@@ -1,10 +1,10 @@
 /******************************************************************************
- * Họ và tên: [ĐIỀN TÊN TẠI ĐÂY]
- * MSSV:      [ĐIỀN MSSV TẠI ĐÂY]
- * Lớp:       [ĐIỀN LỚP TẠI ĐÂY]
+ * Họ và tên: [Kiều Tân Thắng]
+ * MSSV:      [MSSV PS47908]
+ * Lớp:       [com108_cs21301]
  *****************************************************************************/
 
- // LAB1
+// LAB1
 // 1. Download và Install Visual studio code
 // 2. Cài đặt Extension C/C++
 // 3. Cài đặt Compiler GCC, theo hướng dẫn
